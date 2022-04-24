@@ -1,0 +1,12 @@
+
+Gpython:S1066Ä"/Merge this if statement with the enclosing one.(Ş®ï
+Hpython:S1066â"/Merge this if statement with the enclosing one.(á·çÏ
+lpython:S3776B"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(ßê¤€
+rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 83 to the 15 allowed.(ìšÅ­ûÿÿÿÿ
+Apython:S108š")Either remove or fill this block of code.(ã‘Û¾
+Apython:S108õ")Either remove or fill this block of code.(ã‘Û¾
+Apython:S108û")Either remove or fill this block of code.(ã‘Û¾
+fpython:S1854¡"HRemove this assignment to local variable 'ant'; the value is never used.(µŞ³ùÿÿÿÿ
+rpython:S3776ç"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(÷¦ ÿúÿÿÿÿ
+Kpython:S1481­"-Remove the unused local variable "ant_types".(§–Ñéüÿÿÿÿ
+rpython:S3776¥"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(Ÿ‚ °ùÿÿÿÿ
